@@ -1,0 +1,4 @@
+Staff with less than 10 working hours
+
+Name of Staff: John, Hours Worked: 5
+Name of Staff: Peter, Hours Worked: 2

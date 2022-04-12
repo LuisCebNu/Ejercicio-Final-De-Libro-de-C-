@@ -1,0 +1,23 @@
+           //Declarin the path to the file
+            string path = "E:\\myFile2.txt";
+            if (File.Exists(path))
+            {
+                using (StreamReader sr = new StreamReader(path))
+                {
+                    while (sr.EndOfStream != true)
+                    {
+                        Console.WriteLine(sr.ReadLine());
+                    }
+                    sr.Close();
+                }
+            }
+            else
+            {
+                //Writing to the file
+                using (StreamWriter sw = new StreamWriter(path))
+                {
+                    sw.WriteLine("It is easy to write to a file.");
+                    sw.Close();
+                }
+                Console.WriteLine("New file created!");
+            }

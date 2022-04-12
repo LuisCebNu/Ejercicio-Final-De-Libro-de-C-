@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.exe
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.deps.json
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.runtimeconfig.json
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.runtimeconfig.dev.json
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.dll
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\ref\FinaleOfCSharpBook.dll
+C:\Users\stars\source\repos\FinaleOfCSharpBook\bin\Debug\net5.0\FinaleOfCSharpBook.pdb
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.AssemblyInfo.cs
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.dll
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\ref\FinaleOfCSharpBook.dll
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.pdb
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.genruntimeconfig.cache
+C:\Users\stars\source\repos\FinaleOfCSharpBook\obj\Debug\net5.0\FinaleOfCSharpBook.csproj.AssemblyReference.cache
